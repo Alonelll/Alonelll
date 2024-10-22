@@ -4,7 +4,7 @@
 
 I am a 21 year old apprentice who is learning to become a software developer. At the moment I am working as an employee in a company and I am passionate about learning to program. 
 
-Skills: Angular / JS / HTML / CSS
+Skills: Angular / JS / HTML / CSS / C# / .NET
 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about My experiences in my apprenticeship 
